@@ -1,10 +1,10 @@
 # VibrationManager
-Android、iOS端末でのバイブ機能  
+Android、iOS端末でのバイブレーション機能  
 
 ## 使い方
 VibrationManager.csのPlayVibration関数を呼ぶ    
   
-## バイブの種類の設定方法
+## バイブレーションの種類の設定方法
 VibrationManager.csを編集する    
       
 **共通**  
