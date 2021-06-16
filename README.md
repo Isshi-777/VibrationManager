@@ -8,7 +8,7 @@ VibrationManager.csのPlayVibration関数を呼ぶ
 VibrationManager.csを編集する    
       
 **共通**  
-下記に種類を追加・削除
+下記にバイブレーションの種類を追加・削除
 ```cs
 /// <summary>
 /// バイブレーションのタイプ
